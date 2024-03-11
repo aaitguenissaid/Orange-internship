@@ -45,10 +45,10 @@ Installed Conda and Docker
 
 - **Experimental results** vividly demonstrate that knowledge editing might inadvertently cast a shadow of unintended consequences on LLMs, which warrant attention and efforts for future works.
 
-![Figure 1: As the number of edits increases, the model might manifest Knowledge Conflict when dealing with inputs involved with multiple consecutive edits. Meanwhile, each edit could potentially lead to ruptures in knowledge links within the model, resulting in Knowledge Distortion.](image.png)
+![Figure 1: As the number of edits increases, the model might manifest Knowledge Conflict when dealing with inputs involved with multiple consecutive edits. Meanwhile, each edit could potentially lead to ruptures in knowledge links within the model, resulting in Knowledge Distortion.](img/image.png)
 
 
-![Figure 2: Unveiling the pitfalls of knowledge editing for LLMs. (a) Through REVERSE EDIT and COMPOSITE EDIT, we can observe that previous knowledge editing approaches may trigger Knowledge Conflict, leading to failures of knowledge editing; (b) Through ROUND-EDIT, we notice that previous knowledge editing approaches may lead to Knowledge Distortion, and the underlying knowledge structure within LLMs can be disrupted. In Figure 1, we depict two types of side effects caused by](image-1.png)
+![Figure 2: Unveiling the pitfalls of knowledge editing for LLMs. (a) Through REVERSE EDIT and COMPOSITE EDIT, we can observe that previous knowledge editing approaches may trigger Knowledge Conflict, leading to failures of knowledge editing; (b) Through ROUND-EDIT, we notice that previous knowledge editing approaches may lead to Knowledge Distortion, and the underlying knowledge structure within LLMs can be disrupted. In Figure 1, we depict two types of side effects caused by](img/image-1.png)
 
 - **Multi-label Edit (MLE)** that combines multiple correct labels of the edit to a single process, as depicted in Figure 2 (b) bottom, which is capable to alleviate knowledge distortion and restore similar behavior compared with the original model.
 
@@ -57,7 +57,7 @@ Installed Conda and Docker
 
 Suppose a factual knowledge as a triplet $(s, r, o)$, an edit $e = (s, r, o → o∗)$ modifies the object from o to o∗ for given subject s and relation r. After applying this edit to a language model $f_θ$ (where $θ$ denotes the model’s parameters), there is a knowledge update applied to the model, that is
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 where ko is the old knowledge and kn is the new one. Generally, we witness an update from ko to kn through the variation of their generation probabilities.
 
@@ -84,21 +84,21 @@ In our experiments, for each edit $e$, we compute the results by averaging the p
 
 **Knowledge Conflict Analysis**
 
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](img/image-3.png)
+![alt text](img/image-4.png)
 
-![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](img/image-5.png)
+![alt text](img/image-6.png)
 
 **Knowledge Distortion Analysis**
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 **Hard and Easy Edits:**
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 
 
@@ -116,7 +116,7 @@ In our experiments, for each edit $e$, we compute the results by averaging the p
 
 ## 3. [Model Editing Can Hurt General Abilities of Large Language Models](http://arxiv.org/abs/2401.04700)
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)
 
 ## 4. [Knowledge Editing on Black-box Large Language Models](http://arxiv.org/abs/2402.08631)
 
@@ -129,20 +129,30 @@ In our experiments, for each edit $e$, we compute the results by averaging the p
 **Improved Multi-perspective Evaluation :**
 For black-box LLMs editing, the evaluation of KE focuses on what changes and what remains in the edited output $y_e$ compared to original output $y_o$.
 
-![alt text](image-11.png)
+![alt text](img/image-11.png)
 
-![alt text](image-12.png)
-![alt text](image-13.png)
+![alt text](img/image-12.png)
+![alt text](img/image-13.png)
 
 
 
 ## 5. [Model Editing at Scale leads to Gradual and Catastrophic Forgetting](http://arxiv.org/abs/2401.07453)
 
-![alt text](image-14.png)
+![alt text](img/image-14.png)
 
-![alt text](image-15.png)
+![alt text](img/image-15.png)
 
 
 ## 6. [Neighboring Perturbations of Knowledge Editing on Large Language Models](https://arxiv.org/abs/2401.17623)
 
 Introduced two metrics AFF and ANF. (to be checked)
+
+## 7. [Neuron Patching: Neuron-level Model Editing on Code Generation and LLMs](http://arxiv.org/abs/2312.05356)
+
+## 8. [Retrieval-augmented Multilingual Knowledge Editing](http://arxiv.org/abs/2312.13040)
+
+- What happens if the new knowledge is supplied in one language, but we would like to query the LLM in a different language?
+- ReMaKE can perform model-agnostic knowledge editing in multilingual settings.
+- ReMaKE concatenates the new knowledge retrieved from a multilingual knowledge base with prompts
+- Our experimental results show that ReMaKE outperforms baseline knowledge editing methods by a significant margin and is the first KE method to work in a multilingual setting.
+- We provide our multilingual knowledge editing dataset (MzsRE) in 12 languages, which along with code, and additional project information is available at https://github.com/Vicky-Wil/ReMaKE.
