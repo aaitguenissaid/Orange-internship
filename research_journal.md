@@ -156,3 +156,9 @@ Introduced two metrics AFF and ANF. (to be checked)
 - ReMaKE concatenates the new knowledge retrieved from a multilingual knowledge base with prompts
 - Our experimental results show that ReMaKE outperforms baseline knowledge editing methods by a significant margin and is the first KE method to work in a multilingual setting.
 - We provide our multilingual knowledge editing dataset (MzsRE) in 12 languages, which along with code, and additional project information is available at https://github.com/Vicky-Wil/ReMaKE.
+
+Edit on English, test on other languages
+![alt text](img/image-17.png)
+
+Edit on other languages, test on English
+![alt text](img/image-18.png)
