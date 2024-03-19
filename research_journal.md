@@ -309,7 +309,7 @@ PMET
 4. Real-world updates in WIKIUPDATE are more difficult for editing.
 
 
-## Stable Knowledge Editing in Large Language Models
+## 14. Stable Knowledge Editing in Large Language Models
 
 
 ![alt text](image-45.png)
@@ -319,3 +319,21 @@ PMET
 ![alt text](image-47.png)
 
 ![alt text](image-48.png)
+
+## 15. [Eva-KELLM: A New Benchmark for Evaluating Knowledge Editing of LLMs](http://arxiv.org/abs/2308.09954)
+
+![alt text](image-49.png)
+
+
+## Todo
+paper with 1000 updates
+
+SWEA: Changing Factual Knowledge in Large Language Models via Subject Word Embedding Altering
+
+Unifying Large Language Models and Knowledge Graphs: A Roadmap
+
+Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors
+
+AKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions
+
+
