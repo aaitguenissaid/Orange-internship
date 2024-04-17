@@ -51,7 +51,7 @@ Table 6. Summary of Evaluations on other Applications
 
 ![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/876d362d-0fa4-405d-ad73-9f9acfde1b94)
 
-# 4. Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity 
+# 4. Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity https://arxiv.org/abs/2310.07521
 
 ![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/580f40ce-f920-42ee-aa4b-6a2c0afebc20)
 
@@ -70,3 +70,29 @@ Table 6. Summary of Evaluations on other Applications
 ![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/bf5a6efc-7460-44c2-b60a-4191949620ea)
 
 1 other table
+
+
+# 5. Knowledge Editing for Large Language Models: A Survey https://arxiv.org/abs/2310.16218
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/fa18d3b8-6ef2-44f4-9390-0c705013fad8)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/fe478386-371e-4c9f-ac8f-af0bedafc398)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/ba9e05da-24fb-468c-b68a-a5983c71dff4)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/515cbc95-b4de-4747-b5b4-2cc93760c47c)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/a5001867-91ff-4f35-9b8a-4aa088162741)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/9f95c0a4-f266-4a52-a16b-5e9361e1c58f)
+ 
+# 6. Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications https://arxiv.org/abs/2311.05876
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/10792b20-f3e7-4c6b-b545-07b46bc61dc4)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/6d8cebd2-ac99-4ce9-944a-4f30a4a94b4e)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/14385b1f-2cab-4fe8-82b4-fbe2bc8e3de7)
+
+and other tables..
+
