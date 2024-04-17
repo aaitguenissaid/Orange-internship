@@ -1,4 +1,4 @@
-![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/a3622e05-1eb0-4b46-b804-6f30f7e5d22c)# 1. A Comprehensive Study of Knowledge Editing for Large Language Models http://arxiv.org/abs/2401.01286
+# 1. A Comprehensive Study of Knowledge Editing for Large Language Models http://arxiv.org/abs/2401.01286
 
 ![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/02a06965-8cef-4e29-a717-fe76b431e63a)
 
