@@ -52,3 +52,21 @@ Table 6. Summary of Evaluations on other Applications
 ![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/876d362d-0fa4-405d-ad73-9f9acfde1b94)
 
 # 4. Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity 
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/580f40ce-f920-42ee-aa4b-6a2c0afebc20)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/5279f3d9-07c0-4828-bf00-ad031b714df8)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/6a59b256-24e9-475f-8f6a-031660365275)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/69ef3fec-ff61-468c-8c33-16cb0356836d)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/a96e7852-649c-4225-aef9-6d0bbe34a7a6)
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/5f7d23e3-2497-4b85-9daf-ea181d3ca6f4)
+
+2 other tables..
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/bf5a6efc-7460-44c2-b60a-4191949620ea)
+
+1 other table
