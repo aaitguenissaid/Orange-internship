@@ -104,9 +104,14 @@ Table 6. Summary of Evaluations on other Applications
 
 and other tables..
 
+&nbsp;
+# 7. How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances, 4 Dec. 2023, https://aclanthology.org/2023.findings-emnlp.1043/
+
+![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/ad3332a7-e427-40e4-aac5-6c974d8bba38)
+
 
 &nbsp;
-# 7. Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models, 4 Dec. 2023, https://aclanthology.org/2023.findings-emnlp.1043/
+# 8. Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models, 4 Dec. 2023, https://aclanthology.org/2023.findings-emnlp.1043/
 
 ![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/9e63b048-288d-4186-86e8-1baaf4630bdc)
 
@@ -115,7 +120,7 @@ and other tables..
 
 
 &nbsp;
-# 8. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing https://dl.acm.org/doi/full/10.1145/3560815
+# 9. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing https://dl.acm.org/doi/full/10.1145/3560815
 
 ![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/643b0b73-99b3-471f-95cd-511fa7580adb)
 
@@ -131,7 +136,7 @@ and other tables..
 
 
 &nbsp;
-# 9. Continual Learning for Large Language Models: A Survey, 7 Feb. 2024, https://arxiv.org/abs/2402.01364
+# 10. Continual Learning for Large Language Models: A Survey, 7 Feb. 2024, https://arxiv.org/abs/2402.01364
 
 ![image](https://github.com/aaitguenissaid/Orange-internship/assets/45363061/1f63327c-a217-4c9e-875f-733bec5d2013)
 
